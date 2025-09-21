@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/0Viviana/1 FIAP/5 fase/datathon/app/mlruns/0/44a625dcd8f24c1db2034611d7380204/artifacts
+end_time: 1757896485324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44a625dcd8f24c1db2034611d7380204
+run_name: Drift_Alibi_20250914_213445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757896485234
+status: 3
+tags: []
+user_id: vivia

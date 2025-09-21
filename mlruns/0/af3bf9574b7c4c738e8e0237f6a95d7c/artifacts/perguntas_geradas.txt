@@ -1,0 +1,5 @@
+Qual é a sua experiência com o Microsoft Excel?
+Você já utilizou o Microsoft Excel para criar planilhas complexas?
+Como você resolveria um problema de fórmula no Microsoft Excel?
+Você já trabalhou com funções avançadas do Microsoft Excel, como PROCV e SOMASE?
+Como você organizaria e analisaria dados utilizando o Microsoft Excel?

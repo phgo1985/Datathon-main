@@ -1,0 +1,10 @@
+Q: Qual é a sua experiência com o Microsoft Excel?
+A: Fiz diversos cursos de excel, sou super avançada.
+Q: Você já utilizou o Microsoft Excel para criar planilhas complexas?
+A: Em planilhas para controles financeiros, mas não sei usar macros.
+Q: Como você resolveria um problema de fórmula no Microsoft Excel?
+A: Para construir um controle de entradas e saidas, tipo fluxo financiero.
+Q: Você já trabalhou com funções avançadas do Microsoft Excel, como PROCV e SOMASE?
+A: Crio graficos e tabelas, mas o excel serve mais como banco de dados.
+Q: Como você organizaria e analisaria dados utilizando o Microsoft Excel?
+A: Sim sou certificada Microsoft.

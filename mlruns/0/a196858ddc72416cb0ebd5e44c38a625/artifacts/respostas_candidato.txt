@@ -1,0 +1,10 @@
+Q: Qual é o seu nível de experiência e habilidade no Microsoft Excel?
+A: Fiz diversos cursos de excel, sou super avançada.
+Q: Você já utilizou o Microsoft Excel para criar relatórios ou análises financeiras?
+A: Em planilhas para controles financeiros, mas não sei usar macros.
+Q: Como você costuma organizar e analisar dados utilizando o Microsoft Excel?
+A: Para construir um controle de entradas e saidas, tipo fluxo financiero.
+Q: Você possui conhecimentos avançados em fórmulas e funções do Microsoft Excel?
+A: Crio graficos e tabelas, mas o excel serve mais como banco de dados.
+Q: Como você lidaria com uma situação em que precisasse automatizar uma tarefa utilizando o Microsoft Excel?
+A: Sim sou certificada Microsoft.

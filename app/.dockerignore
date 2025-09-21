@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.git
+*.log
+*.env
+.venv/
+.git/
+
+# Ignorar testes
+app/tests_nb
+
+# Dados que excedem limite github
+app/dados/
+app/data/extraidos/applicants.json
+app/data/extraidos/prospects.json
+app/data/extraidos/vagas.json
+app/data/extraidos/dados.db
+

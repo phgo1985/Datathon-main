@@ -1,0 +1,5 @@
+Qual a sua experiência prática com o Microsoft Excel?
+Você já trabalhou com fórmulas avançadas e funções no Excel?
+Como você costuma organizar e analisar dados utilizando o Excel?
+Você já teve que criar relatórios complexos no Excel? Se sim, poderia dar um exemplo?
+Como você lida com situações de erro ou problemas ao utilizar o Excel?

@@ -1,0 +1,10 @@
+Q: Qual é a sua experiência com o Microsoft Excel?
+A: nao conheco
+Q: Você já trabalhou com planilhas complexas e fórmulas no Excel?
+A: nao
+Q: Como você costuma organizar e analisar dados no Excel?
+A: nunca trabalhei antes
+Q: Você já utilizou o Excel para criar relatórios e apresentações?
+A: nao
+Q: Como você avalia o seu nível de habilidade no Microsoft Excel, de 1 a 10?
+A: 1

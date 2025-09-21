@@ -1,0 +1,30 @@
+services:
+  web:  # Flask backend
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+    working_dir: /app
+    env_file:
+      - .env
+    command: python app.py
+    restart: always
+
+  streamlit:  # Streamlit frontend
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    working_dir: /app
+    environment:
+      - API_URL=http://web:5000  # nome do serviço Flask
+    command: streamlit run frontend/front.py --server.port=8501 --server.address=0.0.0.0
+    depends_on:
+      - web
+    restart: always

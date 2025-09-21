@@ -1,0 +1,10 @@
+Q: Você possui experiência com a utilização avançada do Microsoft Excel?
+A: Fiz diversos cursos de excel, sou super avançada.
+Q: Como você costuma utilizar o Microsoft Excel em suas atividades diárias?
+A: Em planilhas para controles financeiros, mas não sei usar macros.
+Q: Poderia citar algum projeto em que tenha utilizado o Microsoft Excel de forma eficiente?
+A: Para construir um controle de entradas e saidas, tipo fluxo financiero.
+Q: Como você lida com a análise de dados e criação de relatórios no Microsoft Excel?
+A: Crio graficos e tabelas, mas o excel serve mais como banco de dados.
+Q: Você tem alguma certificação ou curso relacionado ao Microsoft Excel?
+A: Não

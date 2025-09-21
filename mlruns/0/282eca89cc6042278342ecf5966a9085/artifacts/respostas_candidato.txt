@@ -1,0 +1,10 @@
+Q: Você possui experiência com a utilização avançada do Microsoft Excel?
+A: Resposta 1
+Q: Como você costuma utilizar o Microsoft Excel em suas atividades diárias?
+A: Resposta 2
+Q: Poderia citar algum projeto em que tenha utilizado o Microsoft Excel de forma eficiente?
+A: Resposta 3
+Q: Como você lida com a análise de dados e criação de relatórios no Microsoft Excel?
+A: Resposta 4
+Q: Você tem alguma certificação ou curso relacionado ao Microsoft Excel?
+A: Resposta 5

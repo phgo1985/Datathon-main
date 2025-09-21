@@ -1,0 +1,10 @@
+Q: 1. Qual é a sua experiência com o Microsoft Excel?
+A: nenhuma
+Q: 2. Como você costuma utilizar o Excel em suas atividades diárias?
+A: nunca usei
+Q: 3. Você já participou de algum treinamento ou curso específico sobre o Excel?
+A: sim
+Q: 4. Poderia me dar um exemplo de alguma situação em que você precisou utilizar funções avançadas do Excel para resolver um problema?
+A: nunca fiz
+Q: 5. Como você avalia o seu nível de habilidade no Excel em uma escala de 1 a 10?
+A: 1

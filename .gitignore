@@ -1,0 +1,26 @@
+# Ignorar ambiente virtual
+venv/
+.env
+venv312/
+.venv/
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar testes
+app/tests_nb
+
+# Ignorar notebooks específicos
+
+# Ainda incompletos
+app/templates/
+
+
+# Dados que excedem limite github
+app/dados/
+app/data/extraidos/applicants.json
+app/data/extraidos/prospects.json
+app/data/extraidos/vagas.json
+app/data/extraidos/dados.db
+

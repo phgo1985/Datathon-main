@@ -1,0 +1,10 @@
+Q: Qual sua experiência prática com o Microsoft Excel?
+A: Fiz diversos cursos de excel, sou super avançada.
+Q: Você já utilizou o Microsoft Excel para criar relatórios ou planilhas complexas?
+A: Em planilhas para controles financeiros, mas não sei usar macros.
+Q: Como você organiza e analisa dados no Microsoft Excel?
+A: Para construir um controle de entradas e saidas, tipo fluxo financiero.
+Q: Como você lidaria com uma situação em que precisasse utilizar funções avançadas no Excel?
+A: Crio graficos e tabelas, mas o excel serve mais como banco de dados.
+Q: Você se considera um usuário avançado do Microsoft Excel? Como isso impacta seu desempenho nas tarefas administrativas?
+A: Sim sou certificada Microsoft.

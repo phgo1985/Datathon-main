@@ -1,0 +1,5 @@
+Qual é a sua experiência prática com o Microsoft Excel?
+Você já utilizou o Excel para análise de dados ou criação de relatórios?
+Como você lidaria com um grande volume de dados para organizar em uma planilha do Excel?
+Você tem conhecimento de fórmulas avançadas do Excel, como PROCV e SOMASE?
+Como você garantiria a precisão e integridade dos dados em uma planilha do Excel?

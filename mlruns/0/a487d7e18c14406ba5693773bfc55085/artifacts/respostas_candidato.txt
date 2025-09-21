@@ -1,0 +1,10 @@
+Q: Qual o seu nível de experiência com o Microsoft Excel?
+A: Fiz diversos cursos de excel, sou super avançada.
+Q: Você já utilizou o Microsoft Excel em ambientes profissionais?
+A: Em planilhas para controles financeiros, mas não sei usar macros.
+Q: Pode me dar um exemplo de uma situação em que você utilizou o Microsoft Excel para resolver um problema?
+A: Para construir um controle de entradas e saidas, tipo fluxo financiero.
+Q: Como você organizaria e analisaria dados utilizando o Microsoft Excel?
+A: Crio graficos e tabelas, mas o excel serve mais como banco de dados.
+Q: Quais funções do Microsoft Excel você considera mais importantes para um Assistente Administrativo/Operação?
+A: Sim sou certificada Microsoft.

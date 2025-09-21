@@ -1,0 +1,10 @@
+Q: Qual é a sua experiência com o Microsoft Excel?
+A: 10 anos de experiencia em planilhas
+Q: Você já trabalhou com planilhas complexas e fórmulas avançadas no Excel?
+A: sim
+Q: Como você costuma utilizar o Excel para otimizar processos administrativos?
+A: com VBA e macros
+Q: Você já participou de projetos que envolviam a análise de dados no Excel?
+A: sim
+Q: Como você se mantém atualizado sobre as novas funcionalidades e atualizações do Microsoft Excel?
+A: cursos

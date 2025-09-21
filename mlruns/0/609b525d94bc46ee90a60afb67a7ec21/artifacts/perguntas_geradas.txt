@@ -1,0 +1,5 @@
+Qual é a sua experiência com o Microsoft Excel?
+Você já utilizou o Excel para criar relatórios ou análises de dados em sua carreira anterior?
+Como você costuma organizar e analisar dados no Excel?
+Você já utilizou fórmulas avançadas no Excel, como VLOOKUP ou IF?
+Qual é a sua familiaridade com a criação de gráficos e tabelas dinâmicas no Excel?

@@ -1,0 +1,10 @@
+Q: Qual é o seu nível de habilidade no Microsoft Excel?
+A: tenho bastante experiencia
+Q: Você já utilizou o Microsoft Excel em ambientes de trabalho anteriores?
+A: sim
+Q: Poderia me dar um exemplo de como você utilizou o Microsoft Excel para resolver um problema ou melhorar um processo em sua última experiência profissional?
+A: eu fiz um VBA de uma relatorio financeiro com macros para automatizar um processo
+Q: Como você se mantém atualizado sobre as novas funcionalidades e atualizações do Microsoft Excel?
+A: cursos Microsoft
+Q: Você possui alguma certificação ou treinamento específico relacionado ao Microsoft Excel?
+A: sim
